@@ -7,7 +7,7 @@
 
 <h2>Live Example</h2>
 
-<p>You can view the live example of this webpage <a href="https://machismo-adolescencia.ar/index.html">here</a>.</p>
+<p>You can view the live example of this webpage <a target="_blank" href="https://machismo-adolescencia.ar/index.html">here</a>.</p>
 
 <h2>The Problem Solved</h2>
 
