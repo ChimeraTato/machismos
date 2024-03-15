@@ -25,7 +25,7 @@
 <h2>Technical Information</h2>
 
 <ul>
-  <li><strong>Language:</strong> HTML</li>
+  <li><strong>Language:</strong> HTML, CSS, Vanilla JavaScript</li>
   <li><strong>Author:</strong> Gonzalo Prado. by blankspot</li>
   <li><strong>Keywords:</strong> Machismo, Feminismo, adolescencia, historia</li>
 </ul>
