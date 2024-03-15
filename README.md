@@ -1,4 +1,3 @@
-# machismos
 <h1>Machismos y Adolescencia</h1>
 
 <h2>Description</h2>
