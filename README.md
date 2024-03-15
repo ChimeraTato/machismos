@@ -32,4 +32,4 @@
 
 <h2>Additional Information</h2>
 
-<p>For additional information or inquiries, please contact Gonzalo Prado at [contact@example.com].</p>
+<p>For additional information or inquiries, please contact Gonzalo Prado at [gonzalo.prd@gmail.com].</p>
